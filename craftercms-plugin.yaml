@@ -38,12 +38,12 @@ plugin:
   description: A plugin to create redirect files
   website:
     name: Web Redirect Files Plugin
-    url: https://github.com/craftercms/redirect-plugin
+    url: https://github.com/craftersoftware/redirect-plugin
   media:
     screenshots:
       - title: Redirect
         description: A plugin to create redirect files
-        url: https://raw.githubusercontent.com/craftercms/redirect-plugin/master/.crafter/cover.png
+        url: https://raw.githubusercontent.com/craftersoftware/redirect-plugin/master/.crafter/cover.png
   developer:
     company:
       name: CrafterCMS
